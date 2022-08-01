@@ -12,4 +12,8 @@ CTW CI/CD Academy: Day 2 - ECUStudy module
 
    - https://en.wikipedia.org/wiki/List_of_GNU_packages
 
-3. 
+3. Package 'helloworld' in .deb with dependency to CMake >= 3.14 package
+
+   - Do: 'sudo dpkg –i helloworld.deb' to install the program
+   - Do: 'helloworld' to run the program 
+   - Do: 'sudo dpkg –r helloworld.deb' to uninstall the program
