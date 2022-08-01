@@ -14,6 +14,6 @@ CTW CI/CD Academy: Day 2 - ECUStudy module
 
 3. Package 'helloworld' in .deb with dependency to CMake >= 3.14 package
 
-   - Do: 'sudo dpkg –i helloworld.deb' to install the program
-   - Do: 'helloworld' to run the program 
-   - Do: 'sudo dpkg –r helloworld.deb' to uninstall the program
+   - To install the program: sudo dpkg –i helloworld.deb
+   - To run the program: helloworld  
+   - To uninstall the program: sudo dpkg –r helloworld.deb
