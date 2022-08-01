@@ -1,8 +1,8 @@
 Package: helloworld
-Version: 1.0.2
+Version: 1.0.0
 Section: development
 Priority: optional
 Architecture: all
-Maintainer: rockstar-developer@criticaltechworks.com
-Description: HelloWorld
+Maintainer: CTW Academy Group 2 <rockstar-developer@criticaltechworks.com>
+Description: CTW CI/CD Academy Group 2 hello world package
 Depends: cmake(>= 3.14)
